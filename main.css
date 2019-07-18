@@ -4,6 +4,10 @@ ul {
     padding: 0;
 }
 
+body {
+    display: block;
+    margin: 0px;
+}
 a {
     text-decoration: none;
     color: #5f6368;
@@ -165,7 +169,6 @@ a {
 #footer {
     font-family: arial, sans-serif;
     bottom: 0;
-    margin-left: -8px;
     font-size: 11pt;
     position: absolute;
     width: 100%;
