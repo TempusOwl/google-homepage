@@ -9,6 +9,13 @@ a {
     color: #5f6368;
 }
 
+.a2 {    
+    text-decoration: none;
+    color: #5f6368;
+    padding-right: 20px;
+}
+
+
 #topbar {
     font-family: arial,sans-serif;
     display:inline-block;
